@@ -1,0 +1,5 @@
+classes= 2
+train  = /content/train_names.txt
+valid  = /content/test_names.txt
+names = /content/darknet/data/obj.names
+backup = /content/darknet/backup/
